@@ -1,5 +1,9 @@
 # Frontend-Hunt---CodingWiz
 
+## 🌐 Live Demo
+
+You can check out the app here: [[https://your-live-site-link.com](https://codingwizweatherdashboard.netlify.app/)](https://your-live-site-link.com)
+
 # 🌤️ Weather Dashboard App
 
 A responsive and interactive Weather Dashboard built using **React.js**. This application allows users to search for any city and get real-time weather data including temperature, humidity, and a detailed forecast using the **OpenWeatherMap API**.
