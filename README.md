@@ -101,6 +101,15 @@ Visit http://localhost:5173 in your browser.
 
 
 
+## Video 
+
+
+https://github.com/user-attachments/assets/c23ba109-10aa-4c4e-96c7-813760aa94f5
+
+
+
+
+
 ## 🙌 Acknowledgements
 
 . OpenWeatherMap for the free weather API
