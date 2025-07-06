@@ -84,13 +84,17 @@ Visit http://localhost:5173 in your browser.
 
 ## Screenshots 
 
-![Screenshot 2025-07-06 162343](https://github.com/user-attachments/assets/6f4f59da-f8b1-44c2-9704-a0009008bb6e)
+![Screenshot 2025-07-06 162343](https://github.com/user-attachments/assets/51b901ae-dabc-401d-a990-9f0d31435eef)
 
-![Screenshot 2025-07-06 162349](https://github.com/user-attachments/assets/deda224d-ce31-45b1-8383-e1051cc27b56)
 
-![Screenshot 2025-07-06 162400](https://github.com/user-attachments/assets/04a2d5b4-8649-42a8-9918-6f33b90d4983)
+![Screenshot 2025-07-06 162349](https://github.com/user-attachments/assets/656a7e2c-7dd9-46cf-a736-3178ead13053)
 
-![Screenshot 2025-07-06 162406](https://github.com/user-attachments/assets/d3c409c4-81dc-4e81-bf34-32aa856021b4)
+
+![Screenshot 2025-07-06 162400](https://github.com/user-attachments/assets/8edf9c4d-6732-47a3-85a4-49c024e3b663)
+
+
+![Screenshot 2025-07-06 162406](https://github.com/user-attachments/assets/15b66cd4-6e97-4a3e-a8cf-64cc6f5b2191)
+
 
 
 ## 🙌 Acknowledgements
