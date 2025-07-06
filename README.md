@@ -111,6 +111,8 @@ Visit http://localhost:5173 in your browser.
 
 . Font Awesome for icons
 
+. Figma
+
 
 ## 👥 Team
 
