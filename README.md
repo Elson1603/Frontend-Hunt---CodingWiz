@@ -2,7 +2,7 @@
 
 ## 🌐 Live Demo
 
-You can check out the app here: [[https://your-live-site-link.com](https://codingwizweatherdashboard.netlify.app/)](https://your-live-site-link.com)
+You can check out the app here: [[weatherdashboard.com](https://codingwizweatherdashboard.netlify.app/)]
 
 # 🌤️ Weather Dashboard App
 
